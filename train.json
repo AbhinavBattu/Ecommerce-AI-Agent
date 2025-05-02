@@ -1,0 +1,198 @@
+[
+  {
+    "tokens": ["I", "want", "to", "buy", "shoes", ",", "jacket", ",", "sweater"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Looking", "for", "a", "laptop", ",", "camera", ",", "and", "headphones"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Need", "a", "new", "phone", ",", "tablet", ",", "and", "charger"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Buy", "a", "fridge", ",", "microwave", ",", "and", "blender"],
+    "tags": ["O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Searching", "for", "a", "sofa", ",", "table", ",", "and", "chair"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Can", "I", "get", "a", "washing", "machine", ",", "dryer", ",", "and", "iron"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Show", "me", "some", "books", ",", "notebooks", ",", "and", "pens"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["I", "need", "a", "new", "backpack", ",", "wallet", ",", "and", "belt"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Looking", "for", "a", "new", "TV", ",", "soundbar", ",", "and", "Blu-ray", "player"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Get", "me", "a", "coffee", "maker", ",", "toaster", ",", "and", "blender"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Want", "a", "smartwatch", ",", "earbuds", ",", "and", "phone", "case"],
+    "tags": ["O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Buy", "a", "bicycle", ",", "helmet", ",", "and", "pump"],
+    "tags": ["O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Looking", "for", "a", "tent", ",", "sleeping", "bag", ",", "and", "flashlight"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "I-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Get", "me", "some", "frying", "pans", ",", "knives", ",", "and", "cutting", "boards"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Searching", "for", "a", "drone", ",", "GoPro", ",", "and", "tripod"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["I", "need", "a", "new", "printer", ",", "scanner", ",", "and", "office", "chair"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Show", "me", "some", "cosmetics", ",", "shampoo", ",", "and", "soap"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Looking", "for", "a", "new", "tablet", ",", "keyboard", ",", "and", "stylus"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Buy", "a", "set", "of", "dumbbells", ",", "yoga", "mat", ",", "and", "resistance", "bands"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "I-PRODUCT", "O", "O", "B-PRODUCT", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Want", "to", "get", "a", "grill", ",", "smoker", ",", "and", "cooler"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Show", "me", "some", "new", "sneakers", ",", "socks", ",", "and", "shorts"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Get", "a", "new", "microwave", "oven", ",", "rice", "cooker", ",", "and", "air", "fryer"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "I-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Looking", "for", "a", "car", "seat", ",", "stroller", ",", "and", "diaper", "bag"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Need", "a", "new", "vacuum", "cleaner", ",", "mop", ",", "and", "broom"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Searching", "for", "a", "guitar", ",", "drum", "set", ",", "and", "keyboard"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "I-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Buy", "a", "set", "of", "pots", ",", "pans", ",", "and", "baking", "sheets"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Looking", "for", "a", "gaming", "console", ",", "monitor", ",", "and", "chair"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Get", "a", "camera", "bag", ",", "lens", ",", "and", "tripod"],
+    "tags": ["O", "O", "B-PRODUCT", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Want", "a", "new", "bookcase", ",", "desk", ",", "and", "office", "lamp"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Buy", "a", "new", "mattress", ",", "pillow", ",", "and", "duvet"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Searching", "for", "a", "new", "blender", ",", "juicer", ",", "and", "coffee", "grinder"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Get", "a", "new", "tent", ",", "cooler", ",", "and", "camping", "stove"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Looking", "for", "a", "new", "bicycle", ",", "lock", ",", "and", "helmet"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Show", "me", "some", "new", "cookware", ",", "cutting", "boards", ",", "and", "measuring", "cups"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "I-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["I", "need", "a", "new", "blender", ",", "food", "processor", ",", "and", "coffee", "machine"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "I-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Searching", "for", "a", "new", "watch", ",", "bracelet", ",", "and", "necklace"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Buy", "a", "new", "electric", "toothbrush", ",", "hairdryer", ",", "and", "shaver"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Looking", "for", "a", "new", "backpack", ",", "sleeping", "bag", ",", "and", "tent"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "I-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Get", "a", "new", "set", "of", "plates", ",", "bowls", ",", "and", "utensils"],
+    "tags": ["O", "O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Want", "a", "new", "pair", "of", "running", "shoes", ",", "socks", ",", "and", "shorts"],
+    "tags": ["O", "O", "O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Buy", "a", "new", "TV", "stand", ",", "coffee", "table", ",", "and", "lamp"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "I-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Searching", "for", "a", "new", "gaming", "mouse", ",", "keyboard", ",", "and", "headset"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Get", "a", "new", "set", "of", "dumbbells", ",", "resistance", "bands", ",", "and", "yoga", "mat"],
+    "tags": ["O", "O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "I-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Looking", "for", "a", "new", "air", "conditioner", ",", "heater", ",", "and", "fan"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Show", "me", "some", "new", "kitchen", "utensils", ",", "pots", ",", "and", "pans"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "I-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["I", "need", "a", "new", "tablet", ",", "stylus", ",", "and", "keyboard"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Searching", "for", "a", "new", "camera", ",", "memory", "card", ",", "and", "tripod"],
+    "tags": ["O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "I-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Buy", "a", "new", "pair", "of", "glasses", ",", "sunglasses", ",", "and", "case"],
+    "tags": ["O", "O", "O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  },
+  {
+    "tokens": ["Want", "a", "new", "bike", ",", "helmet", ",", "and", "lock"],
+    "tags": ["O", "O", "O", "B-PRODUCT", "O", "B-PRODUCT", "O", "O", "B-PRODUCT"]
+  }
+]
