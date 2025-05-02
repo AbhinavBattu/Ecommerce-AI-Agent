@@ -1,0 +1,16 @@
+.custom-pagination .page-link {
+    background-color: #0071ce;
+  }
+  
+  .custom-pagination .page-item.active .page-link {
+    background-color: #FFC000 ;
+    border-color: #0071ce;
+  }
+  
+  .custom-pagination .page-link:hover {
+    background-color: #FADA5E;
+  }
+  /* .custom-pagination {
+    background-color: #0071ce;
+  } */
+  

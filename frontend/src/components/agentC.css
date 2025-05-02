@@ -1,0 +1,84 @@
+/* BotIcon.css
+
+/* Floating icon styling */
+.bot-icon {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #dce7e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+  }
+  
+  .bot-icon img {
+    width: 80%;
+    height: 80%;
+  }
+  
+  /* Input prompt styling */
+  .bot-prompt {
+    position: fixed;
+    bottom: 90px;
+    right: 20px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .bot-prompt input {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    outline: none;
+  }
+  
+  .bot-prompt button {
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  /* .bot-icon {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    height: 150px;
+    width: 150px;
+    background-color: #f0f0f0;
+    border-radius: 50%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  } */
+  
+  @keyframes flash-outline-yellow {
+    0% {
+        box-shadow: 0 0 10px 5px rgba(255, 255, 0, 0.5);
+    }
+    50% {
+        box-shadow: 0 0 10px 5px rgba(255, 255, 0, 1);
+    }
+    100% {
+        box-shadow: 0 0 10px 5px rgba(255, 255, 0, 0.5);
+    }
+}
+
+.speaking {
+    animation: flash-outline-yellow 1s infinite;
+}
